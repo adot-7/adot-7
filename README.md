@@ -11,6 +11,7 @@ Projects I enjoyed:
 - **[AmulStockBot](https://github.com/adot-7/amulstockbot-v2)** — Product stock notification pipeline for Amul dairy products. (The first useful thing I made for my friends and me)
 
 Currently I am building:
-- **Gow-shell-a** — A simple shell in Go. Documenting on X
+- **Gow-shell-a** — A simple shell in Go. Documenting on X. Update: [Done](https://github.com/adot-7/gow-shella)
+- **[NCR-on-terminal](https://github.com/adot-7/ncr-on-terminal)** — Delhi NCR in your terminal. Check it out instantly using `ssh ncr.akashparashar.dev` 
 
 Find me: [X](https://x.com/itsakaashhh) · [LinkedIn](https://linkedin.com/in/itsaakaash)
